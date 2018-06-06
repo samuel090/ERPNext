@@ -1,3 +1,3 @@
 # ERPNext
-ERPNext for work
+ERPNext for work.
 Steps to install ERPNext
